@@ -1,0 +1,4628 @@
+('D:\\Universidad\\Algoritmo Genetico\\build\\main\\PYZ-00.pyz',
+ [('Algorithm',
+   'D:\\Universidad\\Algoritmo Genetico\\Algorithm.py',
+   'PYMODULE'),
+  ('Analyze', 'D:\\Universidad\\Algoritmo Genetico\\Analyze.py', 'PYMODULE'),
+  ('Logger', 'D:\\Universidad\\Algoritmo Genetico\\Logger.py', 'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('backports',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\cgi.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('deprecated',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\deprecated\\__init__.py',
+   'PYMODULE'),
+  ('deprecated.classic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\deprecated\\classic.py',
+   'PYMODULE'),
+  ('deprecated.sphinx',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\deprecated\\sphinx.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dis.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fileinput.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('jaraco', '-', 'PYMODULE'),
+  ('jaraco.collections',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\collections\\__init__.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('networkx',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.clique',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\clique.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.clustering_coefficient',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\clustering_coefficient.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.connectivity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\connectivity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.distance_measures',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\distance_measures.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.dominating_set',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\dominating_set.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.kcomponents',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\kcomponents.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.matching',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\matching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.maxcut',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\maxcut.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.ramsey',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\ramsey.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.steinertree',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\steinertree.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.traveling_salesman',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\traveling_salesman.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.treewidth',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\treewidth.py',
+   'PYMODULE'),
+  ('networkx.algorithms.approximation.vertex_cover',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\approximation\\vertex_cover.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\assortativity\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.connectivity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\assortativity\\connectivity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.correlation',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\assortativity\\correlation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.mixing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\assortativity\\mixing.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.neighbor_degree',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\assortativity\\neighbor_degree.py',
+   'PYMODULE'),
+  ('networkx.algorithms.assortativity.pairs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\assortativity\\pairs.py',
+   'PYMODULE'),
+  ('networkx.algorithms.asteroidal',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\asteroidal.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.basic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\basic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.centrality',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\centrality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.cluster',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\cluster.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.covering',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\covering.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.edgelist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\edgelist.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.generators',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\generators.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.matching',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\matching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.matrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\matrix.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.projection',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\projection.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.redundancy',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\redundancy.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bipartite.spectral',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bipartite\\spectral.py',
+   'PYMODULE'),
+  ('networkx.algorithms.boundary',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\boundary.py',
+   'PYMODULE'),
+  ('networkx.algorithms.bridges',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\bridges.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.betweenness',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\betweenness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.betweenness_subset',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\betweenness_subset.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.closeness',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\closeness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.current_flow_betweenness',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\current_flow_betweenness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.current_flow_betweenness_subset',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\current_flow_betweenness_subset.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.current_flow_closeness',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\current_flow_closeness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.degree_alg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\degree_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.dispersion',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\dispersion.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.eigenvector',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\eigenvector.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.flow_matrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\flow_matrix.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.group',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\group.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.harmonic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\harmonic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.katz',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\katz.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.load',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\load.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.percolation',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\percolation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.reaching',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\reaching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.second_order',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\second_order.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.subgraph_alg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\subgraph_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.trophic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\trophic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.centrality.voterank_alg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\centrality\\voterank_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.chains',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\chains.py',
+   'PYMODULE'),
+  ('networkx.algorithms.chordal',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\chordal.py',
+   'PYMODULE'),
+  ('networkx.algorithms.clique',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\clique.py',
+   'PYMODULE'),
+  ('networkx.algorithms.cluster',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\cluster.py',
+   'PYMODULE'),
+  ('networkx.algorithms.coloring',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\coloring\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.coloring.equitable_coloring',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\coloring\\equitable_coloring.py',
+   'PYMODULE'),
+  ('networkx.algorithms.coloring.greedy_coloring',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\coloring\\greedy_coloring.py',
+   'PYMODULE'),
+  ('networkx.algorithms.communicability_alg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\communicability_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.asyn_fluid',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\asyn_fluid.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.centrality',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\centrality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.community_utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\community_utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.kclique',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\kclique.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.kernighan_lin',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\kernighan_lin.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.label_propagation',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\label_propagation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.louvain',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\louvain.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.lukes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\lukes.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.modularity_max',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\modularity_max.py',
+   'PYMODULE'),
+  ('networkx.algorithms.community.quality',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\community\\quality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\components\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.attracting',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\components\\attracting.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.biconnected',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\components\\biconnected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.connected',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\components\\connected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.semiconnected',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\components\\semiconnected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.strongly_connected',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\components\\strongly_connected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.components.weakly_connected',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\components\\weakly_connected.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.connectivity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\connectivity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.cuts',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\cuts.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.disjoint_paths',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\disjoint_paths.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.edge_augmentation',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\edge_augmentation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.edge_kcomponents',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\edge_kcomponents.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.kcomponents',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\kcomponents.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.kcutsets',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\kcutsets.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.stoerwagner',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\stoerwagner.py',
+   'PYMODULE'),
+  ('networkx.algorithms.connectivity.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\connectivity\\utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.core',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\core.py',
+   'PYMODULE'),
+  ('networkx.algorithms.covering',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\covering.py',
+   'PYMODULE'),
+  ('networkx.algorithms.cuts',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\cuts.py',
+   'PYMODULE'),
+  ('networkx.algorithms.cycles',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\cycles.py',
+   'PYMODULE'),
+  ('networkx.algorithms.d_separation',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\d_separation.py',
+   'PYMODULE'),
+  ('networkx.algorithms.dag',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\dag.py',
+   'PYMODULE'),
+  ('networkx.algorithms.distance_measures',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\distance_measures.py',
+   'PYMODULE'),
+  ('networkx.algorithms.distance_regular',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\distance_regular.py',
+   'PYMODULE'),
+  ('networkx.algorithms.dominance',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\dominance.py',
+   'PYMODULE'),
+  ('networkx.algorithms.dominating',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\dominating.py',
+   'PYMODULE'),
+  ('networkx.algorithms.efficiency_measures',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\efficiency_measures.py',
+   'PYMODULE'),
+  ('networkx.algorithms.euler',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\euler.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.boykovkolmogorov',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\boykovkolmogorov.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.capacityscaling',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\capacityscaling.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.dinitz_alg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\dinitz_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.edmondskarp',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\edmondskarp.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.gomory_hu',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\gomory_hu.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.maxflow',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\maxflow.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.mincost',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\mincost.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.networksimplex',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\networksimplex.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.preflowpush',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\preflowpush.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.shortestaugmentingpath',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\shortestaugmentingpath.py',
+   'PYMODULE'),
+  ('networkx.algorithms.flow.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\flow\\utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.graph_hashing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\graph_hashing.py',
+   'PYMODULE'),
+  ('networkx.algorithms.graphical',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\graphical.py',
+   'PYMODULE'),
+  ('networkx.algorithms.hierarchy',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\hierarchy.py',
+   'PYMODULE'),
+  ('networkx.algorithms.hybrid',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\hybrid.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isolate',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isolate.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.ismags',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\ismags.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.isomorph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\isomorph.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.isomorphvf2',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\isomorphvf2.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.matchhelpers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\matchhelpers.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.temporalisomorphvf2',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\temporalisomorphvf2.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.tree_isomorphism',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\tree_isomorphism.py',
+   'PYMODULE'),
+  ('networkx.algorithms.isomorphism.vf2userfunc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\isomorphism\\vf2userfunc.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_analysis',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\link_analysis\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_analysis.hits_alg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\link_analysis\\hits_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_analysis.pagerank_alg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\link_analysis\\pagerank_alg.py',
+   'PYMODULE'),
+  ('networkx.algorithms.link_prediction',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\link_prediction.py',
+   'PYMODULE'),
+  ('networkx.algorithms.lowest_common_ancestors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\lowest_common_ancestors.py',
+   'PYMODULE'),
+  ('networkx.algorithms.matching',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\matching.py',
+   'PYMODULE'),
+  ('networkx.algorithms.minors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\minors\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.minors.contraction',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\minors\\contraction.py',
+   'PYMODULE'),
+  ('networkx.algorithms.mis',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\mis.py',
+   'PYMODULE'),
+  ('networkx.algorithms.moral',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\moral.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\node_classification\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification.hmn',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\node_classification\\hmn.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification.lgc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\node_classification\\lgc.py',
+   'PYMODULE'),
+  ('networkx.algorithms.node_classification.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\node_classification\\utils.py',
+   'PYMODULE'),
+  ('networkx.algorithms.non_randomness',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\non_randomness.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\operators\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.all',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\operators\\all.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.binary',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\operators\\binary.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.product',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\operators\\product.py',
+   'PYMODULE'),
+  ('networkx.algorithms.operators.unary',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\operators\\unary.py',
+   'PYMODULE'),
+  ('networkx.algorithms.planar_drawing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\planar_drawing.py',
+   'PYMODULE'),
+  ('networkx.algorithms.planarity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\planarity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.polynomials',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\polynomials.py',
+   'PYMODULE'),
+  ('networkx.algorithms.reciprocity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\reciprocity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.regular',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\regular.py',
+   'PYMODULE'),
+  ('networkx.algorithms.richclub',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\richclub.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\shortest_paths\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.astar',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\shortest_paths\\astar.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.dense',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\shortest_paths\\dense.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.generic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\shortest_paths\\generic.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.unweighted',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\shortest_paths\\unweighted.py',
+   'PYMODULE'),
+  ('networkx.algorithms.shortest_paths.weighted',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\shortest_paths\\weighted.py',
+   'PYMODULE'),
+  ('networkx.algorithms.similarity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\similarity.py',
+   'PYMODULE'),
+  ('networkx.algorithms.simple_paths',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\simple_paths.py',
+   'PYMODULE'),
+  ('networkx.algorithms.smallworld',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\smallworld.py',
+   'PYMODULE'),
+  ('networkx.algorithms.smetric',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\smetric.py',
+   'PYMODULE'),
+  ('networkx.algorithms.sparsifiers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\sparsifiers.py',
+   'PYMODULE'),
+  ('networkx.algorithms.structuralholes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\structuralholes.py',
+   'PYMODULE'),
+  ('networkx.algorithms.summarization',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\summarization.py',
+   'PYMODULE'),
+  ('networkx.algorithms.swap',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\swap.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tournament',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tournament.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\traversal\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.beamsearch',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\traversal\\beamsearch.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.breadth_first_search',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\traversal\\breadth_first_search.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.depth_first_search',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\traversal\\depth_first_search.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.edgebfs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\traversal\\edgebfs.py',
+   'PYMODULE'),
+  ('networkx.algorithms.traversal.edgedfs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\traversal\\edgedfs.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tree\\__init__.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.branchings',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tree\\branchings.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.coding',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tree\\coding.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.decomposition',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tree\\decomposition.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.mst',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tree\\mst.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.operations',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tree\\operations.py',
+   'PYMODULE'),
+  ('networkx.algorithms.tree.recognition',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\tree\\recognition.py',
+   'PYMODULE'),
+  ('networkx.algorithms.triads',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\triads.py',
+   'PYMODULE'),
+  ('networkx.algorithms.vitality',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\vitality.py',
+   'PYMODULE'),
+  ('networkx.algorithms.voronoi',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\voronoi.py',
+   'PYMODULE'),
+  ('networkx.algorithms.wiener',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\algorithms\\wiener.py',
+   'PYMODULE'),
+  ('networkx.classes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\__init__.py',
+   'PYMODULE'),
+  ('networkx.classes.coreviews',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\coreviews.py',
+   'PYMODULE'),
+  ('networkx.classes.digraph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\digraph.py',
+   'PYMODULE'),
+  ('networkx.classes.filters',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\filters.py',
+   'PYMODULE'),
+  ('networkx.classes.function',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\function.py',
+   'PYMODULE'),
+  ('networkx.classes.graph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\graph.py',
+   'PYMODULE'),
+  ('networkx.classes.graphviews',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\graphviews.py',
+   'PYMODULE'),
+  ('networkx.classes.multidigraph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\multidigraph.py',
+   'PYMODULE'),
+  ('networkx.classes.multigraph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\multigraph.py',
+   'PYMODULE'),
+  ('networkx.classes.ordered',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\ordered.py',
+   'PYMODULE'),
+  ('networkx.classes.reportviews',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\classes\\reportviews.py',
+   'PYMODULE'),
+  ('networkx.convert',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\convert.py',
+   'PYMODULE'),
+  ('networkx.convert_matrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\convert_matrix.py',
+   'PYMODULE'),
+  ('networkx.drawing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('networkx.drawing.layout',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\drawing\\layout.py',
+   'PYMODULE'),
+  ('networkx.drawing.nx_agraph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\drawing\\nx_agraph.py',
+   'PYMODULE'),
+  ('networkx.drawing.nx_pydot',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\drawing\\nx_pydot.py',
+   'PYMODULE'),
+  ('networkx.drawing.nx_pylab',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\drawing\\nx_pylab.py',
+   'PYMODULE'),
+  ('networkx.exception',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\exception.py',
+   'PYMODULE'),
+  ('networkx.generators',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\__init__.py',
+   'PYMODULE'),
+  ('networkx.generators.atlas',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\atlas.py',
+   'PYMODULE'),
+  ('networkx.generators.classic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\classic.py',
+   'PYMODULE'),
+  ('networkx.generators.cographs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\cographs.py',
+   'PYMODULE'),
+  ('networkx.generators.community',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\community.py',
+   'PYMODULE'),
+  ('networkx.generators.degree_seq',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\degree_seq.py',
+   'PYMODULE'),
+  ('networkx.generators.directed',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\directed.py',
+   'PYMODULE'),
+  ('networkx.generators.duplication',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\duplication.py',
+   'PYMODULE'),
+  ('networkx.generators.ego',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\ego.py',
+   'PYMODULE'),
+  ('networkx.generators.expanders',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\expanders.py',
+   'PYMODULE'),
+  ('networkx.generators.geometric',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\geometric.py',
+   'PYMODULE'),
+  ('networkx.generators.internet_as_graphs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\internet_as_graphs.py',
+   'PYMODULE'),
+  ('networkx.generators.intersection',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\intersection.py',
+   'PYMODULE'),
+  ('networkx.generators.interval_graph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\interval_graph.py',
+   'PYMODULE'),
+  ('networkx.generators.joint_degree_seq',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\joint_degree_seq.py',
+   'PYMODULE'),
+  ('networkx.generators.lattice',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\lattice.py',
+   'PYMODULE'),
+  ('networkx.generators.line',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\line.py',
+   'PYMODULE'),
+  ('networkx.generators.mycielski',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\mycielski.py',
+   'PYMODULE'),
+  ('networkx.generators.nonisomorphic_trees',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\nonisomorphic_trees.py',
+   'PYMODULE'),
+  ('networkx.generators.random_clustered',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\random_clustered.py',
+   'PYMODULE'),
+  ('networkx.generators.random_graphs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\random_graphs.py',
+   'PYMODULE'),
+  ('networkx.generators.small',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\small.py',
+   'PYMODULE'),
+  ('networkx.generators.social',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\social.py',
+   'PYMODULE'),
+  ('networkx.generators.spectral_graph_forge',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\spectral_graph_forge.py',
+   'PYMODULE'),
+  ('networkx.generators.stochastic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\stochastic.py',
+   'PYMODULE'),
+  ('networkx.generators.sudoku',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\sudoku.py',
+   'PYMODULE'),
+  ('networkx.generators.trees',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\trees.py',
+   'PYMODULE'),
+  ('networkx.generators.triads',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\generators\\triads.py',
+   'PYMODULE'),
+  ('networkx.lazy_imports',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\lazy_imports.py',
+   'PYMODULE'),
+  ('networkx.linalg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('networkx.linalg.algebraicconnectivity',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\algebraicconnectivity.py',
+   'PYMODULE'),
+  ('networkx.linalg.attrmatrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\attrmatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.bethehessianmatrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\bethehessianmatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.graphmatrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\graphmatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.laplacianmatrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\laplacianmatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.modularitymatrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\modularitymatrix.py',
+   'PYMODULE'),
+  ('networkx.linalg.spectrum',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\linalg\\spectrum.py',
+   'PYMODULE'),
+  ('networkx.readwrite',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\__init__.py',
+   'PYMODULE'),
+  ('networkx.readwrite.adjlist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\adjlist.py',
+   'PYMODULE'),
+  ('networkx.readwrite.edgelist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\edgelist.py',
+   'PYMODULE'),
+  ('networkx.readwrite.gexf',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\gexf.py',
+   'PYMODULE'),
+  ('networkx.readwrite.gml',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\gml.py',
+   'PYMODULE'),
+  ('networkx.readwrite.gpickle',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\gpickle.py',
+   'PYMODULE'),
+  ('networkx.readwrite.graph6',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\graph6.py',
+   'PYMODULE'),
+  ('networkx.readwrite.graphml',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\graphml.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\json_graph\\__init__.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.adjacency',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\json_graph\\adjacency.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.cytoscape',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\json_graph\\cytoscape.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.jit',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\json_graph\\jit.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.node_link',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\json_graph\\node_link.py',
+   'PYMODULE'),
+  ('networkx.readwrite.json_graph.tree',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\json_graph\\tree.py',
+   'PYMODULE'),
+  ('networkx.readwrite.leda',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\leda.py',
+   'PYMODULE'),
+  ('networkx.readwrite.multiline_adjlist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\multiline_adjlist.py',
+   'PYMODULE'),
+  ('networkx.readwrite.nx_shp',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\nx_shp.py',
+   'PYMODULE'),
+  ('networkx.readwrite.pajek',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\pajek.py',
+   'PYMODULE'),
+  ('networkx.readwrite.sparse6',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\sparse6.py',
+   'PYMODULE'),
+  ('networkx.readwrite.text',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\readwrite\\text.py',
+   'PYMODULE'),
+  ('networkx.relabel',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\relabel.py',
+   'PYMODULE'),
+  ('networkx.testing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\testing\\__init__.py',
+   'PYMODULE'),
+  ('networkx.testing.test',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\testing\\test.py',
+   'PYMODULE'),
+  ('networkx.testing.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\testing\\utils.py',
+   'PYMODULE'),
+  ('networkx.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\__init__.py',
+   'PYMODULE'),
+  ('networkx.utils.contextmanagers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\contextmanagers.py',
+   'PYMODULE'),
+  ('networkx.utils.decorators',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\decorators.py',
+   'PYMODULE'),
+  ('networkx.utils.heaps',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\heaps.py',
+   'PYMODULE'),
+  ('networkx.utils.mapped_queue',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\mapped_queue.py',
+   'PYMODULE'),
+  ('networkx.utils.misc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\misc.py',
+   'PYMODULE'),
+  ('networkx.utils.random_sequence',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\random_sequence.py',
+   'PYMODULE'),
+  ('networkx.utils.rcm',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\rcm.py',
+   'PYMODULE'),
+  ('networkx.utils.union_find',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\networkx\\utils\\union_find.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.extensions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\extensions.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.accessors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._calamine',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_calamine.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pickletools',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickletools.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytz',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._distutils.zosccompiler',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_distutils\\zosccompiler.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.android',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.api',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.macos',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.unix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.windows',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel._setuptools_logging',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\_setuptools_logging.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.bdist_wheel',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.convert',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\convert.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.pack',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\pack.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.tags',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.cli.unpack',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\cli\\unpack.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.metadata',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\metadata.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\util.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._elffile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._manylinux',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._musllinux',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._parser',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._structures',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging._tokenizer',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.markers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.requirements',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.specifiers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.tags',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.vendored.packaging.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\vendored\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site.py',
+   'PYMODULE'),
+  ('six',
+   'D:\\Universidad\\Algoritmo Genetico\\env\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tsplib95',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\__init__.py',
+   'PYMODULE'),
+  ('tsplib95.bisep',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\bisep.py',
+   'PYMODULE'),
+  ('tsplib95.distances',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\distances.py',
+   'PYMODULE'),
+  ('tsplib95.exceptions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\exceptions.py',
+   'PYMODULE'),
+  ('tsplib95.fields',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\fields.py',
+   'PYMODULE'),
+  ('tsplib95.loaders',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\loaders.py',
+   'PYMODULE'),
+  ('tsplib95.matrix',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\matrix.py',
+   'PYMODULE'),
+  ('tsplib95.models',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\models.py',
+   'PYMODULE'),
+  ('tsplib95.transformers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\transformers.py',
+   'PYMODULE'),
+  ('tsplib95.utils',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\tsplib95\\utils.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('wrapt',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\__init__.py',
+   'PYMODULE'),
+  ('wrapt.__wrapt__',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\__wrapt__.py',
+   'PYMODULE'),
+  ('wrapt.arguments',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\arguments.py',
+   'PYMODULE'),
+  ('wrapt.decorators',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\decorators.py',
+   'PYMODULE'),
+  ('wrapt.importer',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\importer.py',
+   'PYMODULE'),
+  ('wrapt.patches',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\patches.py',
+   'PYMODULE'),
+  ('wrapt.weakrefs',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\weakrefs.py',
+   'PYMODULE'),
+  ('wrapt.wrappers',
+   'D:\\Universidad\\Algoritmo '
+   'Genetico\\env\\Lib\\site-packages\\wrapt\\wrappers.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\franc\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipimport.py',
+   'PYMODULE')])
