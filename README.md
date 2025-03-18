@@ -4,8 +4,7 @@ Este proyecto implementa un algoritmo genético en Python. A continuación, se d
 
 ## Requisitos
 
-- Python 3.12
-- Bibliotecas adicionales (si las hay, por ejemplo, `numpy`)
+- Python > 3.11
 
 ## Instalación
 
